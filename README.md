@@ -20,4 +20,4 @@ This contract will distribute different percentages of incoming Ether to employe
 
 ## Defferred Equity Plan
 
-This last contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for the selected employee. This contract was deployed on the Ropsten testnet with an address of 0x27f1dD67C5E34E84bF282AEBd4e2c74E3aD20253.
+This last contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for the selected employee. This contract was deployed on the Kovan testnet with an address of 0xD093F2830c2360a5f5D025C7674CdaFd53719c43.
