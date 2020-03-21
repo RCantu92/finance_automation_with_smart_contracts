@@ -55,7 +55,7 @@ contract AssociateProfitSplitter {
     }
 
     /**
-    * @dev The fallback that calls deposit should Ether be sent directly
+    * @dev The fallback that calls deposit() should Ether be sent directly
     * to the contract.
     */
     function() external payable {
